@@ -1,0 +1,13 @@
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\bin\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.exe
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\bin\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.deps.json
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\bin\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.runtimeconfig.json
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\bin\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\bin\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.dll
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\bin\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.pdb
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\obj\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\obj\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\obj\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\obj\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\obj\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.dll
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\obj\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.pdb
+C:\Users\PICHAU\source\repos\Usuario-em-forma-Ascendente\obj\Debug\netcoreapp3.1\Usuario-em-forma-Ascendente.genruntimeconfig.cache
